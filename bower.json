@@ -1,0 +1,21 @@
+{
+  "name": "picito",
+  "description": "proyecto de congreso de ingenerias",
+  "main": "server.js",
+  "authors": [
+    "Richard"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
